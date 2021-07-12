@@ -17,12 +17,15 @@ export default class DeviceStore {
     ]
 
     this._devices = [
-      {id: 1, name: 'iphone 12 pro', price: 25000, rating: 5, img: 'https://www.google.com/search?q=img+12+pro&sxsrf=ALeKk01PqQxIrswOy1Dl7YYfU_5GD57c7Q:1626020795275&tbm=isch&source=iu&ictx=1&fir=CT74TG6t5P56IM%252CZNAGGnDnPdEu_M%252C_&vet=1&usg=AI4_-kSAPxu5XmCc9z-GJdw3pKQ7gcLoSA&sa=X&ved=2ahUKEwjt3Ji_t9vxAhWitYsKHZTlBJkQ9QF6BAgQEAE#imgrc=CT74TG6t5P56IM'},
+      {id: 1, name: 'iphone 12 pro', price: 25000, rating: 5, img: 'C:\Users\YELAMAN\Desktop\projects\e-shop\client\src\assets\iphone12.jpg'},
 
-      {id: 2, name: 'iphone 12 pro', price: 25000, rating: 5, img: 'https://www.google.com/search?q=img+12+pro&sxsrf=ALeKk01PqQxIrswOy1Dl7YYfU_5GD57c7Q:1626020795275&tbm=isch&source=iu&ictx=1&fir=CT74TG6t5P56IM%252CZNAGGnDnPdEu_M%252C_&vet=1&usg=AI4_-kSAPxu5XmCc9z-GJdw3pKQ7gcLoSA&sa=X&ved=2ahUKEwjt3Ji_t9vxAhWitYsKHZTlBJkQ9QF6BAgQEAE#imgrc=CT74TG6t5P56IM'},
+      {id: 2, name: 'iphone 12 pro', price: 25000, rating: 5, img: 'C:\Users\YELAMAN\Desktop\projects\e-shop\client\src\assets\iphone12.jpg'},
       
-      {id: 3, name: 'iphone 12 pro', price: 25000, rating: 5, img: 'https://www.google.com/search?q=img+12+pro&sxsrf=ALeKk01PqQxIrswOy1Dl7YYfU_5GD57c7Q:1626020795275&tbm=isch&source=iu&ictx=1&fir=CT74TG6t5P56IM%252CZNAGGnDnPdEu_M%252C_&vet=1&usg=AI4_-kSAPxu5XmCc9z-GJdw3pKQ7gcLoSA&sa=X&ved=2ahUKEwjt3Ji_t9vxAhWitYsKHZTlBJkQ9QF6BAgQEAE#imgrc=CT74TG6t5P56IM'},
+      {id: 3, name: 'iphone 12 pro', price: 25000, rating: 5, img: 'C:\Users\YELAMAN\Desktop\projects\e-shop\client\src\assets\iphone12.jpg'},
 
+      {id: 4, name: 'iphone 12 pro', price: 25000, rating: 5, img: '../assets/iphone12.png'},
+      {id: 4, name: 'iphone 12 pro', price: 25000, rating: 5, img: 'https://www.google.com/search?q=img+12+pro&sxsrf=ALeKk01PqQxIrswOy1Dl7YYfU_5GD57c7Q:1626020795275&tbm=isch&source=iu&ictx=1&fir=CT74TG6t5P56IM%252CZNAGGnDnPdEu_M%252C_&vet=1&usg=AI4_-kSAPxu5XmCc9z-GJdw3pKQ7gcLoSA&sa=X&ved=2ahUKEwjt3Ji_t9vxAhWitYsKHZTlBJkQ9QF6BAgQEAE#imgrc=CT74TG6t5P56IM'},
+      {id: 4, name: 'iphone 12 pro', price: 25000, rating: 5, img: 'https://www.google.com/search?q=img+12+pro&sxsrf=ALeKk01PqQxIrswOy1Dl7YYfU_5GD57c7Q:1626020795275&tbm=isch&source=iu&ictx=1&fir=CT74TG6t5P56IM%252CZNAGGnDnPdEu_M%252C_&vet=1&usg=AI4_-kSAPxu5XmCc9z-GJdw3pKQ7gcLoSA&sa=X&ved=2ahUKEwjt3Ji_t9vxAhWitYsKHZTlBJkQ9QF6BAgQEAE#imgrc=CT74TG6t5P56IM'},
       {id: 4, name: 'iphone 12 pro', price: 25000, rating: 5, img: 'https://www.google.com/search?q=img+12+pro&sxsrf=ALeKk01PqQxIrswOy1Dl7YYfU_5GD57c7Q:1626020795275&tbm=isch&source=iu&ictx=1&fir=CT74TG6t5P56IM%252CZNAGGnDnPdEu_M%252C_&vet=1&usg=AI4_-kSAPxu5XmCc9z-GJdw3pKQ7gcLoSA&sa=X&ved=2ahUKEwjt3Ji_t9vxAhWitYsKHZTlBJkQ9QF6BAgQEAE#imgrc=CT74TG6t5P56IM'},
     ]
 
