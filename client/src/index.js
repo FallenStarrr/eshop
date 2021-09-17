@@ -8,7 +8,7 @@ import DeviceStore from './store/DeviceStore'
 
 
 ReactDOM.render(
-  <React.StrictMode>
+
   <Context.Provider value={
     {
       user: new UserStore(),
@@ -17,7 +17,7 @@ ReactDOM.render(
   }>
     <App />
   </Context.Provider>
-  </React.StrictMode>,
+ ,
   document.getElementById('root')
 );
 
