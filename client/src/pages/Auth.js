@@ -9,8 +9,7 @@ import {
 } from "react-bootstrap";
 import { REGISTRATION_ROUTE, LOGIN_ROUTE } from "../utils/consts";
 import { NavLink, useLocation } from "react-router-dom";
-import { registration } from "../http/userAPI";
-import { login } from "../http/userAPI";
+import { login, registration } from "../http/userAPI";
 
 
 const Auth = () => {
